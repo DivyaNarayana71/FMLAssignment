@@ -1,2 +1,2 @@
 # FMLAssignment
-KNN, Linear regression
+KNN, Linear regression, Decision tree
