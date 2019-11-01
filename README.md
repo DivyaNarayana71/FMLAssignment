@@ -1,2 +1,2 @@
 # FMLAssignment
-KNN, Linear regression, Decision tree
+KNN, Linear regression, Decision tree, Naives Bayes
